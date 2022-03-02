@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197487093168",
+    "project_id": "getx-firebase-signing-ap-1b2a0",
+    "storage_bucket": "getx-firebase-signing-ap-1b2a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197487093168:android:dbf926358331cf63b86275",
+        "android_client_info": {
+          "package_name": "com.example.getx_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197487093168-9m6ames1rq95ft9orcu26j4lmn42elsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLZQNDomneM3ZgI0mZmCBiTutDLjGDN3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197487093168-9m6ames1rq95ft9orcu26j4lmn42elsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
